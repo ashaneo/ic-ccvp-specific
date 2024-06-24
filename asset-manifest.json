@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restaurent-front-end/static/css/main.a312dab8.css",
+    "main.js": "/restaurent-front-end/static/js/main.43192865.js",
+    "static/js/787.0ecf1d1c.chunk.js": "/restaurent-front-end/static/js/787.0ecf1d1c.chunk.js",
+    "static/media/international-congress.png": "/restaurent-front-end/static/media/international-congress.f9dddfd2637077d14150.png",
+    "static/media/pizzaLeft.jpg": "/restaurent-front-end/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/restaurent-front-end/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/multiplePizzas.jpeg": "/restaurent-front-end/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/expensive.jpg": "/restaurent-front-end/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/logoYellow.png": "/restaurent-front-end/static/media/logoYellow.ee3ed5188425372baad9.png",
+    "static/media/pepperoni.jpg": "/restaurent-front-end/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/restaurent-front-end/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/restaurent-front-end/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/restaurent-front-end/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/restaurent-front-end/index.html",
+    "main.a312dab8.css.map": "/restaurent-front-end/static/css/main.a312dab8.css.map",
+    "main.43192865.js.map": "/restaurent-front-end/static/js/main.43192865.js.map",
+    "787.0ecf1d1c.chunk.js.map": "/restaurent-front-end/static/js/787.0ecf1d1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a312dab8.css",
+    "static/js/main.43192865.js"
+  ]
+}
