@@ -1,5 +1,7 @@
 import React from "react";
 import { MenuList } from "../helpers/menuList";
+import MenuItem from "../components/MenuItem";
+import "../styles/Menu.css";
 
 function Menu() {
   return (
@@ -9,9 +11,13 @@ function Menu() {
         {MenuList.map((menuItem, key) => {
           return (
             <div className="menuItem" key={key}>
-              <img src={menuItem.image} alt={menuItem.name} />
-              <h2>{menuItem.name}</h2>
-              <h2>{menuItem.price}</h2>
+              <MenuItem
+                key={key}
+                image={menuItem.image}
+                name={menuItem.name}
+                price={menuItem.price}
+              />
+              ;
             </div>
           );
         })}

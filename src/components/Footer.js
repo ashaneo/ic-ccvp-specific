@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div>
       <div className="footer">
-        <div className="socialMedia">
+        {/* <div className="socialMedia">
           <a
             href="https://www.instagram.com/_subo.dha_/"
             target="_blank"
@@ -28,8 +28,8 @@ function Footer() {
           <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
             <LinkedInIcon />
           </a>
-        </div>
-        <p>© 2021 Pedro's Pizzeria</p>
+        </div> */}
+        <p>IC 2025 | Sri Lanka</p>
       </div>
     </div>
   );
