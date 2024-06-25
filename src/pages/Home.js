@@ -10,7 +10,7 @@ function Home() {
         className="home"
         style={{
           backgroundImage: `url(${BannerImage})`,
-          backgroundSize: "1900px 700px", //this is a comment
+          backgroundSize: "1900px 700px",
         }}
       ></div>
     </div>
